@@ -1,6 +1,6 @@
 package ht1;
 import java.util.Scanner;
-public class Ht1 {
+public class Ht1arexh {
     public static void main(String[] args) {
         int tries = 0;
         boolean matchTemplete = false;
